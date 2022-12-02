@@ -15,7 +15,7 @@ const addEventOnElem = function (elem, type, callback) {
 };
 
 /**
- * navbar toggle
+ * navbar toggle for responsiveness
  */
 
 const navTogglers = document.querySelectorAll('[data-nav-toggler]');

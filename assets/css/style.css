@@ -1181,6 +1181,7 @@ body {
   }
 
   .footer-list:last-child {
+    /* starting from 1 and ending at 4 */
     grid-column: 1 / 4;
   }
 
